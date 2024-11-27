@@ -1,3 +1,6 @@
+:root{
+    cursor: none;
+}
 body{
     background-color: #121212;
     display: flex;
